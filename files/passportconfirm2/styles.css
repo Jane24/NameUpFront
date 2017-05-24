@@ -12,21 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u88_img {
+#u110_img {
   position:absolute;
   left:0px;
   top:0px;
   width:990px;
   height:583px;
 }
-#u88 {
+#u110 {
   position:absolute;
   left:0px;
   top:-9px;
   width:990px;
   height:583px;
 }
-#u89 {
+#u111 {
   position:absolute;
   left:2px;
   top:284px;
@@ -34,7 +34,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u90_div {
+#u112_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -53,7 +53,7 @@
   font-size:18px;
   color:#666666;
 }
-#u90 {
+#u112 {
   position:absolute;
   left:315px;
   top:284px;
@@ -65,14 +65,14 @@
   font-size:18px;
   color:#666666;
 }
-#u91 {
+#u113 {
   position:absolute;
   left:0px;
   top:0px;
   width:45px;
   white-space:nowrap;
 }
-#u92_div {
+#u114_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -91,7 +91,7 @@
   font-size:18px;
   color:#666666;
 }
-#u92 {
+#u114 {
   position:absolute;
   left:315px;
   top:329px;
@@ -103,14 +103,14 @@
   font-size:18px;
   color:#666666;
 }
-#u93 {
+#u115 {
   position:absolute;
   left:0px;
   top:0px;
   width:45px;
   white-space:nowrap;
 }
-#u94_div {
+#u116_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -129,7 +129,7 @@
   font-size:18px;
   color:#666666;
 }
-#u94 {
+#u116 {
   position:absolute;
   left:315px;
   top:230px;
@@ -141,14 +141,14 @@
   font-size:18px;
   color:#666666;
 }
-#u95 {
+#u117 {
   position:absolute;
   left:0px;
   top:0px;
   width:45px;
   white-space:nowrap;
 }
-#u96_div {
+#u118_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -167,7 +167,7 @@
   font-size:18px;
   color:#666666;
 }
-#u96 {
+#u118 {
   position:absolute;
   left:315px;
   top:181px;
@@ -179,14 +179,14 @@
   font-size:18px;
   color:#666666;
 }
-#u97 {
+#u119 {
   position:absolute;
   left:0px;
   top:0px;
   width:45px;
   white-space:nowrap;
 }
-#u98 {
+#u120 {
   position:absolute;
   left:791px;
   top:217px;
@@ -195,7 +195,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u99 {
+#u121 {
   position:absolute;
   left:791px;
   top:173px;
@@ -204,7 +204,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u100 {
+#u122 {
   position:absolute;
   left:31px;
   top:380px;
