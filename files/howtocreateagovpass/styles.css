@@ -43,3 +43,25 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u274_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:873px;
+  height:62px;
+}
+#u274 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:873px;
+  height:62px;
+}
+#u275 {
+  position:absolute;
+  left:2px;
+  top:23px;
+  width:869px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
