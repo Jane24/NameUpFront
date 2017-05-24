@@ -95,3 +95,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u40_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:811px;
+  height:88px;
+}
+#u40 {
+  position:absolute;
+  left:0px;
+  top:583px;
+  width:811px;
+  height:88px;
+}
+#u41 {
+  position:absolute;
+  left:2px;
+  top:36px;
+  width:807px;
+  visibility:hidden;
+  word-wrap:break-word;
+}

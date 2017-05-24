@@ -12,21 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u74_img {
+#u82_img {
   position:absolute;
   left:0px;
   top:0px;
   width:817px;
   height:633px;
 }
-#u74 {
+#u82 {
   position:absolute;
   left:0px;
   top:0px;
   width:817px;
   height:633px;
 }
-#u75 {
+#u83 {
   position:absolute;
   left:2px;
   top:308px;
@@ -34,7 +34,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u76_div {
+#u84_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -52,7 +52,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u76 {
+#u84 {
   position:absolute;
   left:27px;
   top:228px;
@@ -63,7 +63,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u76_div.mouseOver {
+#u84_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
@@ -84,16 +84,16 @@
   font-style:normal;
   font-size:20px;
 }
-#u76.mouseOver {
+#u84.mouseOver {
 }
-#u77 {
+#u85 {
   position:absolute;
   left:15px;
   top:10px;
   width:742px;
   word-wrap:break-word;
 }
-#u78_div {
+#u86_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -111,7 +111,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u78 {
+#u86 {
   position:absolute;
   left:27px;
   top:279px;
@@ -122,7 +122,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u78_div.mouseOver {
+#u86_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
@@ -143,16 +143,16 @@
   font-style:normal;
   font-size:20px;
 }
-#u78.mouseOver {
+#u86.mouseOver {
 }
-#u79 {
+#u87 {
   position:absolute;
   left:15px;
   top:10px;
   width:742px;
   word-wrap:break-word;
 }
-#u80_div {
+#u88_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -170,7 +170,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u80 {
+#u88 {
   position:absolute;
   left:27px;
   top:400px;
@@ -181,7 +181,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u80_div.mouseOver {
+#u88_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
@@ -202,9 +202,9 @@
   font-style:normal;
   font-size:20px;
 }
-#u80.mouseOver {
+#u88.mouseOver {
 }
-#u81 {
+#u89 {
   position:absolute;
   left:15px;
   top:10px;
