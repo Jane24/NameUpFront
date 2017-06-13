@@ -74,31 +74,6 @@
   color:#666666;
   text-align:left;
 }
-#u586_div.mouseOver {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:757px;
-  height:47px;
-  background:inherit;
-  background-color:rgba(229, 249, 220, 1);
-  box-sizing:border-box;
-  border-width:2px;
-  border-style:solid;
-  border-color:rgba(255, 204, 0, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Helvetica', 'Helvetica';
-  font-weight:400;
-  font-style:normal;
-  font-size:20px;
-  color:#666666;
-  text-align:left;
-}
-#u586.mouseOver {
-}
 #u587 {
   position:absolute;
   left:2px;
@@ -145,31 +120,6 @@
   font-size:20px;
   color:#666666;
   text-align:left;
-}
-#u589_div.mouseOver {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:757px;
-  height:47px;
-  background:inherit;
-  background-color:rgba(229, 249, 220, 1);
-  box-sizing:border-box;
-  border-width:2px;
-  border-style:solid;
-  border-color:rgba(255, 204, 0, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Helvetica', 'Helvetica';
-  font-weight:400;
-  font-style:normal;
-  font-size:20px;
-  color:#666666;
-  text-align:left;
-}
-#u589.mouseOver {
 }
 #u590 {
   position:absolute;
