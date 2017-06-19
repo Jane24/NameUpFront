@@ -115,25 +115,3 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u82_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:850px;
-  height:62px;
-}
-#u82 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:850px;
-  height:62px;
-}
-#u83 {
-  position:absolute;
-  left:2px;
-  top:23px;
-  width:846px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
