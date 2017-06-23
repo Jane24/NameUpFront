@@ -68,10 +68,18 @@
 }
 .image {
 }
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 .text_field {
   font-family:'Helvetica', 'Helvetica';
   font-size:18px;
   color:#000000;
+  text-align:left;
+}
+.checkbox {
   text-align:left;
 }
 .fields {
@@ -82,6 +90,9 @@
 .radio_button {
   font-size:20px;
   text-align:left;
+}
+.html_button {
+  text-align:center;
 }
 .docselectionhotspot {
 }
